@@ -10,7 +10,7 @@ export default function AboutSection() {
             <h2 className="text-4xl font-bold text-[#2E3C8C] mb-8">What is Pharbit?</h2>
             <div className="prose prose-lg text-[#192340] leading-relaxed">
               <p className="text-lg mb-6">
-                Pharbit (PHB) is a revolutionary blockchain that blends a cryptocurrency with 10 billion PHB coins for global trading and a secure system to track medicines. Starting in Germany, it tackles fake drugs, ensures safe storage like cold chain for vaccines, and meets strict regulatory requirements.
+                Pharbit (PHB) is a revolutionary blockchain that blends a cryptocurrency with 10 million PHB coins for global trading and a secure system to track medicines. Starting in Germany, it tackles fake drugs, ensures safe storage like cold chain for vaccines, and meets strict regulatory requirements.
               </p>
               <p className="text-lg">
                 Built with smart technology, Pharbit offers trust and value to the pharmaceutical industry while providing a reliable cryptocurrency for traders worldwide. Our innovative platform launches in January 2026, bringing transparency and security to healthcare and finance.

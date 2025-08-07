@@ -9,7 +9,7 @@ export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
-    <header className="bg-[#162059] text-white">
+    <header className="bg-[#91d567] text-white">
       <div className="w-full px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           <div className="flex items-center">
@@ -31,11 +31,11 @@ export default function Header() {
           </div>
           
           <nav className="hidden md:flex items-center gap-8">
-            <Link href="#home" className="text-[#447EF2] hover:text-white transition-colors cursor-pointer">Home</Link>
-            <Link href="#about" className="text-[#447EF2] hover:text-white transition-colors cursor-pointer">About</Link>
-            <Link href="#vision" className="text-[#447EF2] hover:text-white transition-colors cursor-pointer">Vision</Link>
-            <Link href="#join" className="text-[#447EF2] hover:text-white transition-colors cursor-pointer">Join Us</Link>
-            <Link href="#contact" className="text-[#447EF2] hover:text-white transition-colors cursor-pointer">Contact</Link>
+            <Link href="#home" className="text-white hover:text-[#447EF2] transition-colors cursor-pointer">Home</Link>
+            <Link href="#about" className="text-white hover:text-[#447EF2] transition-colors cursor-pointer">About</Link>
+            <Link href="#vision" className="text-white hover:text-[#447EF2] transition-colors cursor-pointer">Vision</Link>
+            <Link href="#join" className="text-white hover:text-[#447EF2] transition-colors cursor-pointer">Join Us</Link>
+            <Link href="#contact" className="text-white hover:text-[#447EF2] transition-colors cursor-pointer">Contact</Link>
           </nav>
 
           <button

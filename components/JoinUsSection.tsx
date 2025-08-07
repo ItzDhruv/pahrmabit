@@ -90,7 +90,7 @@ export default function JoinUsSection() {
               <i className="ri-stack-line w-10 h-10 flex items-center justify-center text-[#2E3C8C]"></i>
             </div>
             <h3 className="text-xl font-semibold text-[#2E3C8C] mb-2">Total Supply</h3>
-            <p className="text-[#192340]">10 Billion PHB</p>
+            <p className="text-[#192340]">10 Million PHB</p>
           </div>
         </div>
       </div>

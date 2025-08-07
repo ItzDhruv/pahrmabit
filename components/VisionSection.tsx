@@ -40,7 +40,7 @@ export default function VisionSection() {
                   <i className="ri-coins-line w-8 h-8 flex items-center justify-center text-[#447EF2]"></i>
                 </div>
                 <h4 className="font-semibold text-[#192340] mb-1">Crypto Trading</h4>
-                <p className="text-sm text-[#192340]/70">10B PHB coins</p>
+                <p className="text-sm text-[#192340]/70">10M PHB coins</p>
               </div>
 
               <div className="text-center">
